@@ -2,7 +2,15 @@
 
 Fork d'un projet fait en collaboration avec Louis Janquart et Polina Bevz.
 
-Lien original : https://github.com/mplscrummaster/Urbex-Project-FRONT
+# Liens
+
+- API : https://github.com/Maddax10/Urbex-Project-API
+- CMS : https://github.com/Maddax10/Urbex-Project-CMS
+
+Lien originaux:
+- https://github.com/mplscrummaster/Urbex-Project-FRONT
+   https://github.com/mplscrummaster/Urbex-Project-API
+- https://github.com/mplscrummaster/Urbex-Project-CMS
 
 ## Urbex-Project-FRONT
 
