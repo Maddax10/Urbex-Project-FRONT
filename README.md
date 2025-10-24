@@ -1,4 +1,10 @@
-# Urbex-Project-FRONT
+# Collaboration
+
+Fork d'un projet fait en collaboration avec Louis Janquart et Polina Bevz.
+
+Lien original : https://github.com/mplscrummaster/Urbex-Project-FRONT
+
+## Urbex-Project-FRONT
 
 This template should help get you started developing with Vue 3 in Vite.
 
