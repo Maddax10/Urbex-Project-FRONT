@@ -1,0 +1,22 @@
+// Design tokens
+$color-black: #000000;
+$color-black-green: rgb(0, 6, 0);
+$color-light-green: rgb(85, 176, 81);
+$color-bg: #1a1a1d;
+$color-bg-alt: #222327;
+$color-surface: #2b2d31;
+$color-surface-alt: #34363c;
+$color-border: #3d4046;
+$color-accent: #396941;
+$color-accent-soft: rgba(119, 138, 168, 0.15);
+$color-text: #f5f7fa;
+$color-text-dim: #a7b0bc;
+$color-danger: #dc2626;
+$color-success: #22c55e;
+$radius-sm: 6px;
+$radius-md: 10px;
+$radius-lg: 18px;
+$transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+
+// Layout metrics
+$user-bar-h: 64px;
